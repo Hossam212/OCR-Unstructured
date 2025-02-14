@@ -1,0 +1,8 @@
+unstructured[all-docs]
+unstructured-inference
+pi-heif
+pypdf
+pdfminer.six
+fastapi 
+uvicorn
+requests
