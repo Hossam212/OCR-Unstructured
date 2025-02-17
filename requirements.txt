@@ -1,8 +1,8 @@
+ocrmypdf
 unstructured[all-docs]
+uvicorn
+fastapi
 unstructured-inference
 pi-heif
 pypdf
 pdfminer.six
-fastapi 
-uvicorn
-requests
