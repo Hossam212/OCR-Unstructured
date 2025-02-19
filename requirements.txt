@@ -1,8 +1,10 @@
 ocrmypdf
 unstructured[all-docs]
-uvicorn
-fastapi
+gunicorn
+flask==3.1.0
+flask_cors
 unstructured-inference
 pi-heif
 pypdf
 pdfminer.six
+pymupdf4llm
